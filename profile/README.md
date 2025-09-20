@@ -22,7 +22,7 @@ With **Tinderbox Mac**, you can handle large datasets, manage research projects,
 
 Tinderbox supports various export formats, including HTML, OPML, and text, making it easy to share your work. Its intuitive interface welcomes new users, while its advanced features satisfy the needs of power users.
 
-![Tinderbox Interface](https://static.macupdate.com/screenshots/349874/m/tinderbox-screenshot.png)
+![Tinderbox Interface](https://eastgate.com/Tinderbox/elements/400/LenihanHuge.jpg)
 
 ---
 
